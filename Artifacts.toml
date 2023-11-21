@@ -5,7 +5,7 @@ os = "macos"
 
     [[rdap.download]]
     sha256 = "de4d30d8eafe5b6949f27c9d7b558c1f752d78a5e6a9738f94af0c5013c3cc74"
-    url = "https://github.com/amartinsson-thea/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/Screenhandsaw/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.aarch64-apple-darwin.tar.gz"
 [[rdap]]
 arch = "aarch64"
 git-tree-sha1 = "94319cccaa138137d41f20f59e45b3a86ca3e951"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[rdap.download]]
     sha256 = "ca01cb33d483ffc260eff42845678629c326d46428fe52424ee1a9e316427f45"
-    url = "https://github.com/amartinsson-thea/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/Screenhandsaw/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.aarch64-linux-gnu.tar.gz"
 [[rdap]]
 arch = "aarch64"
 git-tree-sha1 = "94319cccaa138137d41f20f59e45b3a86ca3e951"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[rdap.download]]
     sha256 = "ca01cb33d483ffc260eff42845678629c326d46428fe52424ee1a9e316427f45"
-    url = "https://github.com/amartinsson-thea/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/Screenhandsaw/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.aarch64-linux-musl.tar.gz"
 [[rdap]]
 arch = "x86_64"
 git-tree-sha1 = "e53c9a04555984f007236cfe698d2d54654b11c3"
@@ -32,7 +32,7 @@ os = "linux"
 
     [[rdap.download]]
     sha256 = "c3e3a306fbbee4ad0f42ea102b980bd9eaae29957772e2eb539d051b31c14ca5"
-    url = "https://github.com/amartinsson-thea/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/Screenhandsaw/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.x86_64-linux-gnu.tar.gz"
 [[rdap]]
 arch = "x86_64"
 git-tree-sha1 = "dc11a3b4bba79e16315442b4d89e2247b35d4f79"
@@ -41,4 +41,4 @@ os = "linux"
 
     [[rdap.download]]
     sha256 = "97b6066bd29ca3687bf6c3c7297e281dc19c2b705df1ee99783c7cd8e8755d39"
-    url = "https://github.com/amartinsson-thea/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/Screenhandsaw/rdap_jll.jl/releases/download/rdap-v0.9.1+0/rdap.v0.9.1.x86_64-linux-musl.tar.gz"
